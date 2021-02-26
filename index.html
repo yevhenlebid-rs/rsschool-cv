@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>HTML, CSS & Git Basics task</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
 
@@ -18,7 +18,7 @@
                 <h2 class="top__profession">Front-End Developer</h2>
             </div>
             <div class="top__right">
-                <img class="top__img" src="https://placehold.it/72" alt="Image">
+                <img class="top__img" src="images/photo.jpg" alt="Image">
             </div>
         </div>
     </div>
@@ -79,20 +79,34 @@
                     <div class="about__left-item">
                         <h4 class="about__title">COUNTRY:</h4>
                         <p class="about__profession">Ukraine, <br> Mykolaiv, Mykolaiv Oblast</p>
-                        <h4 class="about__title">
-                            PHONE:
-                        </h4>
-                        <p class="about__profession">+380665645498</p>
-                        <h4 class="about__title">
-                            EMAIL:
-                        </h4>
-                        <p class="about__profession"> yevhenlebid51@gmail.com</p>
+                        <ul class="about__contacts">
+                            <li class="about__title">
+                                PHONE: <br>
+                                <span class="about__profession">+380665645498</span>
+                            </li>
+                            <li class="about__title">
+                                EMAIL: <br>
+                                <span class="about__profession">yevhenlebid51@gmail.com</span>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<footer class="footer">
+    <div class="container">
+        <div class="footer__wrapper">
+            <a class="footer__logo" href="https://rs.school/js/" target="_blank">
+                <img class="footer__logo-img" src="images/rs_school_js.svg" alt="RS-school logo">
+            </a>
+            <a class="footer__link" href="https://github.com/yevhenlebid-rs" target="_blank">My Github Account</a>
+            <div class="footer__year">2021</div>
+        </div>
+    </div>
+</footer>
 
 </body>
 </html>
