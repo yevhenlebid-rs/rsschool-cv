@@ -6,10 +6,6 @@ Mykolaiv, Mykolaiv Oblast
 
 yevhenlebid51@gmail.com
 
-**EXPERIENCE:**
-
-I was engaged in activities not related to IT, I study independently.
-
 **SKILLS:** 
 
 HTML, CSS, JavaScript
@@ -30,6 +26,10 @@ https://lebidyevhen.github.io/productly/
 https://lebidyevhen.github.io/AdWords-1/
 https://lebidyevhen.github.io/AdWords-2/
 https://lebidyevhen.github.io/Become-Dealer-Page/
+
+**EXPERIENCE:**
+
+I was engaged in activities not related to IT, I study independently.
 
 **LANGUAGES:** 
 
