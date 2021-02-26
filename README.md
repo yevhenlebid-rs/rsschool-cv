@@ -1,1 +1,1 @@
-# rsschool-cv
+https://yevhenlebid-rs.github.io/rsschool-cv/cv
