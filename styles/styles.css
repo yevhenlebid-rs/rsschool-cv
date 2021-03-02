@@ -2,14 +2,15 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'DotGothic16', sans-serif;
 }
 
 body {
     padding: 20px;
-    background-size: cover;
-    background-position: top;
 
-    background: linear-gradient(to bottom, rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%);
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -82,7 +83,7 @@ body {
     margin-bottom: 5px;
 
     color: #000;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .about__profession {
